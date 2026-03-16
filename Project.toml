@@ -1,0 +1,7 @@
+name = "Erebor"
+uuid = "e895155b-0006-4513-b96e-06bf6b6a2ce2"
+authors = ["RealHinome <acn@gravitalia.com>"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10.10"
