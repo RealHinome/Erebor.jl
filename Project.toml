@@ -11,3 +11,6 @@ Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 ModelConstructors = "e47e5152-bd14-11e9-1b46-c951f0a7041d"
 NearestNeighbors = "b8a86587-4115-5ab1-83bc-aa920d37bbce"
 StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
+
+[compat]
+Clustering = "0.15.8"
